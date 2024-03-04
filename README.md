@@ -4,3 +4,9 @@
 
 
 python app here : https://github.com/mostafaG95/python
+
+Tools Used:
+1- Terraform infrastructure as a code to build the infrastructure, Terraform code includes:
+
+(VPC - 2 public subnets - 2 private subnets - EKS cluster with workernode and roles - internet gateway - nat gateway - route tables - Bastion Host).
+
